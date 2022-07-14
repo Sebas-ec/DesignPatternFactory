@@ -8,13 +8,21 @@ namespace DesingPatronFactory
 {
     public abstract class Creator
     {
-        public void someOperation()
+        public String Nombre { get; set; }
+        public Creator(String Nombre)
+
         {
-            IProduct product = CreateProduct();
+            this.Nombre = Nombre;
+        }
+
+        public void SomeOperation()
+        {
+            Console.WriteLine("se esta ejecutando SomeOperation()");
+            IProduct product = CreateProduct(Nombre);
             product.doStuf();
         }
 
-        public abstract IProduct CreateProduct();
+        public abstract IProduct CreateProduct(String Nombre);
 
         
     }

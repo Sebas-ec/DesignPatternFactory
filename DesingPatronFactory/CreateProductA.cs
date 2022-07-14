@@ -7,12 +7,29 @@ using System.Threading.Tasks;
 namespace DesingPatronFactory
 {
     public class CreateProductA : Creator
-    {
-        public override IProduct CreateProduct()
+    { 
+        public CreateProductA(string Nombre) : base(Nombre)
         {
-            Console.WriteLine("- Create product B/ CreateProduct() ");
-
-            return new ProductB();
+            this.Nombre = Nombre;
         }
+
+        public override IProduct CreateProduct(string nombre)
+        {
+            Console.WriteLine("- Create product A/ CreateProduct() ");
+            ProductA product = new ProductA("dell");
+            product.nombre = nombre;
+            return product;
+
+        }
+
+        //public override IProduct CreateProduct()
+        //{
+        //    Console.WriteLine("- Create product B/ CreateProduct() ");
+        //    ProductA product = new ProductA();
+        //    product.nombre = "zapato";
+        //    product.marca = "nike";
+        //    return new ProductA("nike", "zapato");
+        //}
+
     }
 }

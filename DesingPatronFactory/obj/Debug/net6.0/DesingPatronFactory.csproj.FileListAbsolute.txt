@@ -1,0 +1,15 @@
+C:\Users\josel\Desktop\C#\DesingPatronFactory\DesingPatronFactory\bin\Debug\net6.0\DesingPatronFactory.exe
+C:\Users\josel\Desktop\C#\DesingPatronFactory\DesingPatronFactory\bin\Debug\net6.0\DesingPatronFactory.deps.json
+C:\Users\josel\Desktop\C#\DesingPatronFactory\DesingPatronFactory\bin\Debug\net6.0\DesingPatronFactory.runtimeconfig.json
+C:\Users\josel\Desktop\C#\DesingPatronFactory\DesingPatronFactory\bin\Debug\net6.0\DesingPatronFactory.dll
+C:\Users\josel\Desktop\C#\DesingPatronFactory\DesingPatronFactory\bin\Debug\net6.0\DesingPatronFactory.pdb
+C:\Users\josel\Desktop\C#\DesingPatronFactory\DesingPatronFactory\obj\Debug\net6.0\DesingPatronFactory.csproj.AssemblyReference.cache
+C:\Users\josel\Desktop\C#\DesingPatronFactory\DesingPatronFactory\obj\Debug\net6.0\DesingPatronFactory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\josel\Desktop\C#\DesingPatronFactory\DesingPatronFactory\obj\Debug\net6.0\DesingPatronFactory.AssemblyInfoInputs.cache
+C:\Users\josel\Desktop\C#\DesingPatronFactory\DesingPatronFactory\obj\Debug\net6.0\DesingPatronFactory.AssemblyInfo.cs
+C:\Users\josel\Desktop\C#\DesingPatronFactory\DesingPatronFactory\obj\Debug\net6.0\DesingPatronFactory.csproj.CoreCompileInputs.cache
+C:\Users\josel\Desktop\C#\DesingPatronFactory\DesingPatronFactory\obj\Debug\net6.0\DesingPatronFactory.dll
+C:\Users\josel\Desktop\C#\DesingPatronFactory\DesingPatronFactory\obj\Debug\net6.0\refint\DesingPatronFactory.dll
+C:\Users\josel\Desktop\C#\DesingPatronFactory\DesingPatronFactory\obj\Debug\net6.0\DesingPatronFactory.pdb
+C:\Users\josel\Desktop\C#\DesingPatronFactory\DesingPatronFactory\obj\Debug\net6.0\DesingPatronFactory.genruntimeconfig.cache
+C:\Users\josel\Desktop\C#\DesingPatronFactory\DesingPatronFactory\obj\Debug\net6.0\ref\DesingPatronFactory.dll
